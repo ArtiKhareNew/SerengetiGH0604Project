@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/ArtiKhareNew
   gitUsername: ArtiKhareNew
   gitBranch: main
+- name: LowerFSPackage
+  gitServerName: src_shared_GithubCtrl_Arti
+  gitUrl: https://github.com/ArtiKhareIBM
+  gitUsername: ArtiKhareNew
+  gitBranch: main
